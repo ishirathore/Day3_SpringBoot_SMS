@@ -11,7 +11,7 @@ import java.lang.annotation.Documented;
 @AllArgsConstructor
 @NoArgsConstructor
 //@Documented
-@Document(collection="Students")
+@Document(collection="students")
 public class StudentModel {
     @Id
     private String id;
